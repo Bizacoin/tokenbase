@@ -1,0 +1,18 @@
+---
+addr: '0x983f7cc12d0b5d512b0f91f51a4aa478ac4def46'
+decimals: 0
+description: Bizacoin is a standard ERC20 Token; a self-managing peer-to-peer data driven cryptocurrency built on the Ethereum Network; an open-source blockchain platform. Bizacoin Token is an electronic currency similar to Ether in that it is a store of financial value. 
+The token will forms the backing for financial transactions for acquiring data and getting paid for providing data over the Bizavest Platform.Bizacoin is intended to have a one-time limited supply of 100,000,000 Tokens. These tokens will form the basis of transaction on the Bizavest Platform.
+links:
+- Bitcointalk: https://bitcointalk.org/index.php?topic=2490619.0
+- Blog: https://medium.com/@bizavest
+- Email: mailto:info@bizavest.com
+- Facebook: https://www.facebook.com/bizacoin/
+- Github: https://github.com/bizavest
+- Reddit: https://www.reddit.com/u/bizacoin/
+- Telegram: https://t.me/bizavest
+- Twitter: https://twitter.com/bizacoin
+- Website: https://www.bizavest.info/
+- Whitepaper: https://www.bizavest.info/wp-content/uploads/2018/01/Bizavest-Whitepaper-V1.0.0.pdf
+name: Bizacoin token
+symbol: Bizc
